@@ -1,0 +1,5 @@
+- 👋 Hi, I’m [Goga](https://github.com/skyengineer9)
+- 👀 I’m interested in programming, web development, machine learning, and innovative tech solutions.
+- 🌱 I’m currently learning full-stack development, focusing on front-end technologies like HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on projects related to educational tech, particularly in programming and interactive learning platforms.
+- 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/goga-gabelia-2b88682b4/) or email me at [mailto:skyengineer9@gmail.com].
