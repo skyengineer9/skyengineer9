@@ -1,3 +1,31 @@
+# Hi there, I'm Goga 👋
+
+## About Me
+I am an aspiring **Full-Stack Software Engineer** passionate about learning and building innovative solutions. Currently, I am focusing on mastering **HTML**, **CSS**, and **JavaScript** as the foundation for my journey into web development. In addition to front-end technologies, I am deeply interested in **Cloud Computing** and **Artificial Intelligence**, and I am excited to explore these fields further as I progress in my career.
+
+Feel free to explore my repositories, and if you have any questions or would like to collaborate, don't hesitate to reach out!
+
+## 🚀 Technologies & Tools
+- **Languages**: HTML, CSS, JavaScript
+- **Cloud Computing**: Exploring AWS, Azure, GCP
+- **AI**: Learning the basics of Machine Learning and AI
+
+## 📈 Current Focus
+- Developing my skills in front-end web development.
+- Learning full-stack development, with plans to dive into back-end technologies after mastering front-end.
+- Exploring cloud technologies and AI to integrate them into my projects.
+
+## 🤝 Let's Connect
+- Feel free to open an issue or pull request if you want to collaborate, ask questions, or give suggestions.
+- I'm always open to feedback and new ideas, so don't hesitate to reach out.
+
+Looking forward to sharing my progress and learning from the amazing open-source community!
+
+---
+
+_Goga | Aspiring Full-Stack Engineer_
+
+
 <h2 align="left"></h2>
 
 ###
