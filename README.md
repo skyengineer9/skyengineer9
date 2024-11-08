@@ -31,6 +31,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/skyengineer9/skyengineer9/output/snake.svg" alt="Snake animation" />
-
-###
